@@ -1,5 +1,7 @@
 # nuxt-course-app
 
+Simple blog built with Vue.js, Nuxt 2, and Bootstrap Vue. 
+
 ## Build Setup
 
 ```bash
